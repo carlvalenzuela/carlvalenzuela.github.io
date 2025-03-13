@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>carlvalenzuela.github.io/</id>
   <title>Carl Valenzuela</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-03-11T17:52:05+08:00</updated>
+  <updated>2025-03-13T21:21:39+08:00</updated>
   <author>
     <name>Carl Valenzuela</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>carlvalenzuela.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="carlvalenzuela.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="carlvalenzuela.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 Carl Valenzuela </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,25 +20,23 @@
 
   
   <entry>
-    <title>Welcome!</title>
-    <link href="http://localhost:4000/posts/Welcome/" rel="alternate" type="text/html" title="Welcome!" />
-    <published>2025-03-11T16:00:00+08:00</published>
+    <title>Welcome</title>
+    <link href="carlvalenzuela.github.io/posts/Welcome/" rel="alternate" type="text/html" title="Welcome" />
+    <published>2025-03-11T00:00:00+08:00</published>
   
-    <updated>2025-03-11T16:51:33+08:00</updated>
+    <updated>2025-03-11T18:03:18+08:00</updated>
   
-    <id>http://localhost:4000/posts/Welcome/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Welcome/" />
+    <id>carlvalenzuela.github.io/posts/Welcome/</id>
+    <content type="text/html" src="carlvalenzuela.github.io/posts/Welcome/" />
     <author>
       <name>Carl Valenzuela</name>
     </author>
 
   
     
-    <category term="Getting Started" />
-    
   
 
-  <summary>Get to know me and what I do.</summary>
+  <summary></summary>
 
   </entry>
 
